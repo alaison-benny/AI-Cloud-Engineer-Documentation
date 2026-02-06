@@ -1,7 +1,7 @@
 # AI-Cloud-Engineer-Documentation
 Daily progress, code, and documentation for my 6-month in AWS AI Cloud Engineer
 
-Compliance Notes
+## Compliance Notes;
 ## ⚖️ Compliance & Governance (EU Standards)
 
 This project is developed with a **Compliance-First** mindset, specifically targeting the requirements of the European market. 
