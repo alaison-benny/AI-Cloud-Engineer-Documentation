@@ -2,8 +2,7 @@
 
 **Week 05: Python Basics**
 
-* 
-`Phase-2-Python-Foundations/Week-05-Python-Basics/Day-29-Variables-DataTypes/README.md` 
+* `Phase-2-Python-Foundations/Week-05-Python-Basics/Day-29-Variables-DataTypes/README.md` 
 
 
 * 
